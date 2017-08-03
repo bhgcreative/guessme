@@ -23,9 +23,9 @@ public class GuessMeFinally {
         //int random = -1;
         
         Scanner myScanner = new Scanner(System.in);
-        //Random randomNumber = new Random();
+        Random randomNumber = new Random();
         
-        int random = (int)(Math.random() * 100 + 1);
+        int random = randomNumber.nextInt((200) - 100);
                  
         System.out.println("I've chosen a number. Betcha can't guess it!");
         //put this in here for testing
