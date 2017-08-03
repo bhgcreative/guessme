@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.practiceprogramming6;
 
 import java.util.Random;
 import java.util.Scanner;
